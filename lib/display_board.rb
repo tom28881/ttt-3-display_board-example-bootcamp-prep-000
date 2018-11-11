@@ -1,3 +1,7 @@
 def display_board 
-print 2 * 2
+puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
